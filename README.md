@@ -10,9 +10,14 @@ La evaluacion del desarrollo se aplicara sobre los diferentes metodos de la clas
 Requisitos:
 
  - Eclipse IDE 2023-12 o superior
- - Java 8 o superior
+ - Java 11 o superior
+ - Junit 5 
 
 
 Fuentes:
 
 Archivo de texto tomado de: https://www.gutenberg.org/cache/epub/345/pg345.txt
+
+Uso del cliente http: https://www.baeldung.com/java-9-http-client 
+
+
