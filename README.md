@@ -13,6 +13,15 @@ Requisitos:
  - Java 11 o superior
  - Junit 5 
 
+Indicaciones:
+
+Ejecutar la Aplicación
+
+- Buscar la clase EntryPoint en la estructura del proyecto.
+- Abrir la clase y localizar el método main.
+- Clic derecho sobre el método main y seleccionar Run As > Java Application.
+
+Esto ejecutará el programa y podra ver en consola Eclipse el resultado de los ejercicios resultos.
 
 Fuentes:
 
